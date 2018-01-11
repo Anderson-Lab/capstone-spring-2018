@@ -9,3 +9,5 @@ Sam Word
 Kyle Glick
 
 Alex Giarrocco
+
+Tyler Newman
