@@ -11,3 +11,5 @@ Kyle Glick
 Alex Giarrocco
 
 Tyler Newman
+
+Chase Hendley
