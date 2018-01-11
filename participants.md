@@ -7,3 +7,5 @@ Joshua Glass
 Sam Word
 
 Kyle Glick
+
+Alex Giarrocco
