@@ -21,3 +21,6 @@ Neal Sakash
 Katie Balcewicz
 
 Elaina Cole
+
+Julian Smith
+
