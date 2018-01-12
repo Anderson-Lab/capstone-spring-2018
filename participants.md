@@ -13,3 +13,5 @@ Alex Giarrocco
 Tyler Newman
 
 Chase Hendley
+
+Zach Kidd
