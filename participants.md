@@ -25,3 +25,5 @@ Elaina Cole
 Julian Smith
 
 Sarah Nicholson
+
+Sonia Kopel
