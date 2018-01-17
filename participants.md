@@ -51,3 +51,5 @@ Jasmine Smallwood
 Ekaterina Mizgireva
 
 Brian Steele
+
+Joe Spencer
