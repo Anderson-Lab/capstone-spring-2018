@@ -52,4 +52,10 @@ Ekaterina Mizgireva
 
 Brian Steele
 
+<<<<<<< HEAD
 Jayse White
+=======
+Joe Spencer
+
+Matthew Schwarz
+>>>>>>> d6c9abd994e263ccb430eac431f2ecd6c7710485
